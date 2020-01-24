@@ -1,7 +1,7 @@
 ---
 
 yaml-files:
-  - "themes/aqua-fiesta.yaml"
+  - "themes/aqua_fiesta.yaml"
 
 rules:
   braces:

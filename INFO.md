@@ -14,7 +14,7 @@ An aqua theme with orange accents, designed to match the accent wall in my kitch
 
 ![Theme - Overview](https://raw.githubusercontent.com/PurelyNicole/aqua-fiesta-theme/master/docs/theme-overview.png)
 
-![Theme - Kitchen Dash](https://raw.githubusercontent.com/PurelyNicole/aqua-fiesta-theme/master/docs/kitchen-dash.PNG)
+![Theme - Kitchen Dash](https://raw.githubusercontent.com/PurelyNicole/aqua-fiesta-theme/master/docs/kitchen-dash.png)
 
 ### Map
 
