@@ -2,7 +2,7 @@
 #
 # Aqua Fiesta Thheme
 #
-aqua-fiesta:
+aqua_fiesta:
   accent-color: "#f9a825"
   card-background-color: var(--secondary-background-color)
   dark-primary-color: "#007c91"
